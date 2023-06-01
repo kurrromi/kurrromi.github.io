@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: oldlace;
+}
+
+
+h5 {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+  font-size: 60px;
+  font-family: 'times new roman';
+}
+
+body {
+  text-align: center;
+  color: rebeccapurple;
+  font-size: 25px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  margin-left: 40px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+h6 {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+hr {
+  border-color: mediumpurple;
+  border-width: 1px;
+}
+
